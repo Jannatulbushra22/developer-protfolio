@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 h1{
-    font-size: 50px;
+    font-size: 45px;
 }
 .orange-color{
     color: orangered;
@@ -13,11 +13,12 @@ section{
 }
 .half-width{
     width: 100%;
-    padding-left: 6%;
+    padding-left: 10%;
+    padding-bottom: 10%;
 
 }
 .half-width img{
-    width: 90%;
+    width: 100%;
 }
 .link-button{
     text-decoration: none;
@@ -30,5 +31,6 @@ section{
 .top-banner{
     background-image: url(images/Background.jpg);
     background-repeat: no-repeat;
+    background-size: 100% 150%;
     
 }
